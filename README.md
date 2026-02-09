@@ -11,3 +11,6 @@ It hosts RFC-style position papers, supporting notes, and selected examples aime
 
 This repository is intentionally minimal at its inception.
 RFCs and supporting materials will be added incrementally as positions are refined.
+
+The RFCs in this repository are intentionally layered.
+Early documents establish conceptual framing, while later ones clarify boundary conditions and transitional regimes, without prescribing architectures or normative solutions.
